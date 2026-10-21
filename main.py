@@ -17,7 +17,7 @@ app.add_middleware(
 USE_MOCK = False
 
 # PASTE YOUR NEW FXAPIS KEY HERE
-FXAPIS_KEY = "PASTE_YOUR_NEW_KEY_HERE" 
+FXAPIS_KEY = "fx_test_ee32748c_nZCVJqT38TXsj__lveSz4_Ohl2VjWWC97eUVY_fkPGw" 
 FXAPIS_ACCOUNT_ID = "a89dd86e-2e12-456a-a7ba-16671289dc19"
 BASE_URL = "https://api.fxapis.com"
 
