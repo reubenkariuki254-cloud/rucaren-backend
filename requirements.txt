@@ -1,4 +1,3 @@
 fastapi
 uvicorn
-pydantic
-requests 
+metaapi-cloud-sdk
